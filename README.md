@@ -10,4 +10,5 @@ Day 4 | Hidden SearchBar | [Repo](https://github.com/cagataybalikci/50-days-50-w
 Day 5 | Blurry Loading | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%205%20-%20Blurry%20Loading)
 Day 6 | Scroll Animation | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%206%20-%20Scroll%20Animation)
 Day 7 | Split Landing | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%207%20-%20Split%20Landing)
+Day 8 | Input Form Wave Animation | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%208%20-%20Form%20Wave%20Animation)
 
