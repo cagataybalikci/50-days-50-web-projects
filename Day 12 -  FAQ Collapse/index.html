@@ -4,10 +4,73 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>My Project</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <title>FAQ Collapse</title>
   </head>
   <body>
-    <h1>Project Starter</h1>
+    <h1>Frequently Asked Questions</h1>
+    <div class="faq-container">
+      <div class="faq active">
+        <h3 class="faq-title">
+          Why shouldn't we trust atoms?
+        </h3>
+        <p class="faq-text">
+          They make up everything
+        </p>
+        <button class="faq-toggle">
+          <i class="fas fa-chevron-down"></i>
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <div class="faq">
+        <h3 class="faq-title">
+          Why are large result sets always saved as a CSV file?
+        </h3>
+        <p class="faq-text">
+          Most browsers have problems displaying large amounts of text, which might cause them to become unresponsive.
+        </p>
+        <button class="faq-toggle">
+          <i class="fas fa-chevron-down"></i>
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <div class="faq">
+        <h3 class="faq-title">
+          Should I read the result set per row or per column?
+        </h3>
+        <p class="faq-text">
+          The codes are displayed on screen per row, not per column. If you want to read them in the order they were generated, you should read them per row. Since the generated code are random, this probably doesn't matter much.
+        </p>
+        <button class="faq-toggle">
+          <i class="fas fa-chevron-down"></i>
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <div class="faq">
+        <h3 class="faq-title">
+          What is the maximum amount of codes I can generate?
+        </h3>
+        <p class="faq-text">
+          1000.
+        </p>
+        <button class="faq-toggle">
+          <i class="fas fa-chevron-down"></i>
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <div class="faq">
+        <h3 class="faq-title">
+          How random are the codes?
+        </h3>
+        <p class="faq-text">
+          Pretty random.
+        </p>
+        <button class="faq-toggle">
+          <i class="fas fa-chevron-down"></i>
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
