@@ -16,4 +16,6 @@ Day 10 | Dad Jokes App with API | [Repo](https://github.com/cagataybalikci/50-da
 Day 11 | Event KeyCode Shower | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2011%20-%20Event%20Keycode)
 Day 12 | FAQ Collapse | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2012%20-%20%20FAQ%20Collapse)
 Day 13 | Choice Picker | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2013%20-%20Choice%20Picker)
+Day 14 | Animated Navigation | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2014%20-%20Animated%20Navigation)
+Day 15 | Increment Counter | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2015%20-%20Incrementing%20Counter)
 
