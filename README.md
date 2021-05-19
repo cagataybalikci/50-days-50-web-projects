@@ -18,4 +18,5 @@ Day 12 | FAQ Collapse | [Repo](https://github.com/cagataybalikci/50-days-50-web-
 Day 13 | Choice Picker | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2013%20-%20Choice%20Picker)
 Day 14 | Animated Navigation | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2014%20-%20Animated%20Navigation)
 Day 15 | Increment Counter | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2015%20-%20Incrementing%20Counter)
+Day 16 | Drink Water | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2016%20-%20Drink%20Water)
 
