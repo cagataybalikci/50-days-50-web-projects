@@ -26,4 +26,5 @@ Day 20 | Button Ripple Effect | [Repo](https://github.com/cagataybalikci/50-days
 Day 21 | Drag And Drop | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2021%20-%20Drag%20And%20Drop)
 Day 22 | Drawing App | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2022%20-%20Drawing%20App)
 Day 23 | Kinetic CSS Loader | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2023%20-%20Kinetic%20CSS%20Loader)
+Day 24 | Content Placeholder | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2024%20-%20Content%20Placeholder)
 
