@@ -29,4 +29,5 @@ Day 23 | Kinetic CSS Loader | [Repo](https://github.com/cagataybalikci/50-days-5
 Day 24 | Content Placeholder | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2024%20-%20Content%20Placeholder)
 Day 25 | Sticky Navigation | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2025%20-%20Sticky%20Navigation)
 Day 26 | Double Vertical Slider | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2026%20-%20Double%20Vertical%20Slider)
+Day 27 | Toast Notification | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2027%20-%20Toast%20Notification)
 
