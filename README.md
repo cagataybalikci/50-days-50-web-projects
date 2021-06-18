@@ -31,5 +31,5 @@ Day 25 | Sticky Navigation | [Repo](https://github.com/cagataybalikci/50-days-50
 Day 26 | Double Vertical Slider | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2026%20-%20Double%20Vertical%20Slider)
 Day 27 | Toast Notification | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2027%20-%20Toast%20Notification)
 Day 28 | Github Profiles | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2028%20-%20Github%20Profiles)
-Day 29 | Double Heart Click | [Repo](#)
+Day 29 | Double Heart Click | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2029%20-%20Double%20Heart%20Click)
 
