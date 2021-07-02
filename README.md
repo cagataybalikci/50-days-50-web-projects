@@ -32,4 +32,7 @@ Day 26 | Double Vertical Slider | [Repo](https://github.com/cagataybalikci/50-da
 Day 27 | Toast Notification | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2027%20-%20Toast%20Notification)
 Day 28 | Github Profiles | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2028%20-%20Github%20Profiles)
 Day 29 | Double Heart Click | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2029%20-%20Double%20Heart%20Click)
+Day 30 | Auto Text Effect| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2030%20-%20Auto%20Text%20Effect)
+Day 31 | Password Generator | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2031%20-%20Password%20Generator)
+Day 32 | Checkboxes | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2032%20-%20Checkboxes)
 
