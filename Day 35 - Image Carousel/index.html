@@ -4,10 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>My Project</title>
+    <title>Image Carousel</title>
   </head>
   <body>
-    <h1>Project Starter</h1>
+    <div class="carousel">
+      <div class="image-container" id="imgs">
+        <img src="https://images.unsplash.com/photo-1625483149117-18ee31d8cf9e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1093&q=80" alt="first-img">
+        <img src="https://images.unsplash.com/photo-1625482631914-75c43d421c65?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60" alt="second-img">
+        <img src="https://images.unsplash.com/photo-1625272633746-3757c90e0a4d?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60" alt="third-img">
+        <img src="https://images.unsplash.com/photo-1625475096613-97b2168ddfff?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxOHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60" alt="fourth-img">
+      </div>
+      <div class="buttons-container">
+        <button class="btn" id="left">Previous</button>
+        <button class="btn" id="right">Next</button>
+      </div>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
