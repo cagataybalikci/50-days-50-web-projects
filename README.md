@@ -35,4 +35,7 @@ Day 29 | Double Heart Click | [Repo](https://github.com/cagataybalikci/50-days-5
 Day 30 | Auto Text Effect| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2030%20-%20Auto%20Text%20Effect)
 Day 31 | Password Generator | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2031%20-%20Password%20Generator)
 Day 32 | Checkboxes | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2032%20-%20Checkboxes)
+Day 33 | Notes App | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2033%20-%20Notes%20App)
+Day 34 | Animated Countdown | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2034%20-%20Animated%20Countdown)
+Day 35 | Image Carousel | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2035%20-%20Image%20Carousel)
 
