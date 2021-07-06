@@ -38,4 +38,8 @@ Day 32 | Checkboxes | [Repo](https://github.com/cagataybalikci/50-days-50-web-pr
 Day 33 | Notes App | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2033%20-%20Notes%20App)
 Day 34 | Animated Countdown | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2034%20-%20Animated%20Countdown)
 Day 35 | Image Carousel | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2035%20-%20Image%20Carousel)
+Day 36 | Hoverboard | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2036%20-%20Hoverboard)
+Day 37 | Pokedex | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2037%20-%20Pokedex)
+Day 38 | Mobile Tab Navigation | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2038%20-%20Mobile%20Tab%20Navigation)
+Day 39 | Password Strength Background | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2039%20-%20Password%20Strength%20Background)
 
