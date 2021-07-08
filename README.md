@@ -42,4 +42,7 @@ Day 36 | Hoverboard | [Repo](https://github.com/cagataybalikci/50-days-50-web-pr
 Day 37 | Pokedex | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2037%20-%20Pokedex)
 Day 38 | Mobile Tab Navigation | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2038%20-%20Mobile%20Tab%20Navigation)
 Day 39 | Password Strength Background | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2039%20-%20Password%20Strength%20Background)
+Day 40 | 3D Background Boxes | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2040%20-%203D%20Bacground%20Boxes)
+Day 41 | Verify Account UI | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2041%20-%20Verify%20Account%20UI)
+Day 42 | Live User Filter| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2042%20-%20Live%20User%20Filter)
 
