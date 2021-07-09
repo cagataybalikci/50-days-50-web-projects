@@ -46,3 +46,11 @@ Day 40 | 3D Background Boxes | [Repo](https://github.com/cagataybalikci/50-days-
 Day 41 | Verify Account UI | [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2041%20-%20Verify%20Account%20UI)
 Day 42 | Live User Filter| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2042%20-%20Live%20User%20Filter)
 
+Day 43 | Feedback UI Design| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2043%20-%20Feedback%20UI%20Design)
+Day 44 | Custom Range Slider| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2044%20-%20Custom%20Range%20Slider)
+Day 45 | Netflix Navigation| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2045%20-%20Netflix%20Navigation)
+Day 46 | Quiz App| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2046%20-%20Quiz%20App)
+Day 47 | Testimonal Box Switcher| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2047%20-%20Testimonal%20Box%20Switcher)
+Day 48 | Random Image Feed| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2048%20-%20Random%20Image%20Feed)
+Day 49 | Todo List| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2049%20-%20Todo%20List)
+Day 50 | Insect Catch Game| [Repo](https://github.com/cagataybalikci/50-days-50-web-projects/tree/main/Day%2050%20-%20Insect%20Catch%20Game)
