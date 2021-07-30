@@ -1,6 +1,6 @@
-const API_URL = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=0521010d85f93dc56dac28cbb3e52ab2&page=1"
+const API_URL = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=&page=1"
 const IMAGE_PATH = "https://image.tmdb.org/t/p/w1280"
-const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=0521010d85f93dc56dac28cbb3e52ab2&query="'
+const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=&query="'
 
 const form = document.getElementById("form")
 const search = document.getElementById("search")
